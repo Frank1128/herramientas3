@@ -1,0 +1,13 @@
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\bin\Debug\PRACTICA.exe.config
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\bin\Debug\PRACTICA.exe
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\bin\Debug\PRACTICA.pdb
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.Form1.resources
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.Properties.Resources.resources
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.exe
+C:\Users\Camilo\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.pdb
+C:\Users\fkami\OneDrive\Desktop\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.AssemblyReference.cache
+C:\Users\fkami\OneDrive\Desktop\PRACTICA\PRACTICA\obj\Debug\PRACTICA.exe
+C:\Users\fkami\OneDrive\Desktop\PRACTICA\PRACTICA\obj\Debug\PRACTICA.pdb
